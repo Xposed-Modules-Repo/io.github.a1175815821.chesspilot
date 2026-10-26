@@ -7,7 +7,7 @@
 实时胜率 · 最佳招法箭头 · 可选自动落子 · 手机本地或电脑算力
 
 [![Release](https://img.shields.io/github/v/release/Xposed-Modules-Repo/io.github.a1175815821.chesspilot?label=%E7%89%88%E6%9C%AC&color=blue)](https://github.com/Xposed-Modules-Repo/io.github.a1175815821.chesspilot/releases)
-[![Platform](https://img.shields.io/badge/Android-8.1%2B%20%C2%B7%20arm64-blueviolet)](#-兼容性)
+![Platform](https://img.shields.io/badge/Android-8.1%2B%20%C2%B7%20arm64-blueviolet)
 [![License](https://img.shields.io/badge/license-GPL--3.0-blue)](https://github.com/a1175815821/ChessPilot)
 
 <img src="./assets/console-running.jpg" width="30%" alt="对局进行中：雷达卡与悬浮窗走棋胶囊" /> <img src="./assets/settings.jpg" width="30%" alt="功能设置与远程算力" /> <img src="./assets/console-stopped.jpg" width="30%" alt="一键启停" />
